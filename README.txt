@@ -15,7 +15,7 @@ Tool hỗ trợ tạo & quét ví BTC (legacy, segwit, taproot), kiểm tra bala
 
 ### ⚡ Phiên bản Portable (`.exe`)
 
-1. Tải file [`btc_scanner.exe`](https://github.com/yourname/btc_scanner/releases)
+1. Tải file [`btc_scanner.exe`](https://github.com/0x239d/Scanner/releases/tag/v0.1)
 2. Chạy trực tiếp mà không cần cài đặt.
 3. Nếu Windows cảnh báo (SmartScreen), bấm **More info → Run anyway**
 
@@ -48,7 +48,7 @@ Tool hỗ trợ tạo & quét ví BTC (legacy, segwit, taproot), kiểm tra bala
 
 ## 📦 Tải về
 
-Tải bản mới nhất tại: [📥 GitHub Releases](https://github.com/yourname/btc_scanner/releases)
+Tải bản mới nhất tại: [📥 GitHub Releases](https://github.com/0x239d/Scanner/releases/tag/v0.1)
 
 ---
 
